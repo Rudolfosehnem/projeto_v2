@@ -9,8 +9,8 @@ body{
 
 .noticia{
     
-    display: flex;
-    gap: 435px;
+    display: inline-flex;
+    gap: 235px;
 }
 
 #noticias{
