@@ -1,0 +1,5 @@
+class é para vários, div é para um. código com a identação correta garante B. crhomium é a plataforma de desenvolvimento que as empresas alteram e fazem seus navegadores, 
+padding é o espaço entre o conteudo e a margin, 
+
+buscar informações de html em w3school 
+ 
